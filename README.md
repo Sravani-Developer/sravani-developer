@@ -1,75 +1,104 @@
-# Sravani Medagam
+🚀 Sravani Medagam
 
-📍 Los Angeles Metropolitan Area , United States 
-📞 +1 657 631 7877  
-📧 sravanimedagam0709@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/sravanireddy-medagam-364190354)
+Full-Stack Software Engineer
 
----
+📍 United States
+📧 sravanimedagam0709@gmail.com
 
-## 👨‍💻 Full-Stack Web Developer
+🔗 LinkedIn
+ | Portfolio
 
-Full-Stack Web Developer with **4+ years of experience** designing, developing, and maintaining scalable web applications in the IT industry. Strong background in both frontend and backend development with a focus on clean, responsive user interfaces and reliable server-side logic.
+👩‍💻 About Me
 
-Experienced with JavaScript-based technologies including **Angular, Node.js, Express.js, and MongoDB**, and comfortable working across the full software development lifecycle—from requirements analysis and API design to deployment and optimization. Currently pursuing advanced studies in **Computer Science (Web Development)** and actively seeking full-time Full-Stack Web Developer opportunities.
+I’m a Full-Stack Software Engineer focused on building scalable, secure, and user-friendly web applications.
 
----
+I enjoy working across the stack—from crafting responsive frontends to designing efficient backend systems. My work emphasizes performance optimization, clean architecture, and real-world usability.
 
-## 🛠️ Technical Skills
+⚡ Tech Stack
 
-**Frontend**
-- Angular
-- AngularJS
-- JavaScript
-- HTML5
-- CSS3
+Frontend
 
-**Backend**
-- Node.js
-- Express.js
-- RESTful APIs
+React.js, Angular
+JavaScript (ES6+), HTML5, CSS3, SCSS
+Bootstrap, Tailwind CSS
 
-**Database**
-- MongoDB
+Backend
 
-**Tools & Practices**
-- Git & Version Control
-- Agile Development
-- Debugging & Troubleshooting
-- Performance Optimization
+Node.js, Express.js
+REST API Development
+MVC Architecture
 
----
+Database
 
-## 💼 Professional Experience
+MongoDB, MySQL
+Indexing & Query Optimization
 
-### Full-Stack Web Developer  
-**Eazy Refund Consultancy LLP** — Hyderabad  
-*September 2020 – January 2025*
+Security
 
-- Designed, developed, and maintained full-stack web applications using Angular, Node.js, Express.js, and MongoDB.
-- Built responsive and user-friendly interfaces with a focus on performance and usability.
-- Developed and integrated RESTful APIs to support frontend functionality and backend business logic.
-- Collaborated with cross-functional teams to gather requirements, implement features, and resolve production issues.
-- Maintained and enhanced existing applications to improve stability, scalability, and performance.
+JWT, bcrypt
+RBAC, Sessions, Cookies
+Helmet, CORS, Rate Limiting
 
----
+Cloud & Tools
 
-## 🎓 Education
+Vercel, Render, MongoDB Atlas
+GitHub Actions (CI/CD)
+Docker (Basics), Postman
+💼 Experience
 
-**Westcliff University**  
-*Master’s in Computer Science (Web Development)*  
-March 2025 – August 2026
+Full-Stack Web Developer
+📍 Eazy Refund Consultancy LLP | Sep 2020 – Jan 2025
 
----
+Built scalable full-stack applications using React, Angular, Node.js, and MongoDB
+Designed REST APIs with modular architecture and clean backend structure
+Implemented secure authentication systems (JWT, RBAC, sessions)
+Optimized database queries using indexing and aggregation
+Improved performance using lazy loading and frontend optimizations
+📌 Featured Projects
+🔹 EventLens – Event Discovery Platform
 
-## 📌 Interests
+A full-stack application for event management and RSVP workflows.
 
-- Full-Stack Web Development  
-- Scalable Web Applications  
-- Modern JavaScript Frameworks  
-- Backend API Design  
-- Continuous Learning & Skill Growth
+Key Highlights
 
----
+Role-based authentication system
+Event creation, RSVP, and dashboard features
+Advanced search & filtering (city, category, date)
+Progressive Web App (offline support)
+Secure backend with rate limiting & middleware
 
-⭐ *Feel free to explore my repositories to see my work and projects in action.*
+Tech Stack:
+React • Node.js • Express • MongoDB • Bootstrap
+
+🔹 Developer Portfolio Website
+
+A modern, responsive personal portfolio.
+
+Key Highlights
+
+Dynamic project rendering system
+SEO optimized with Open Graph
+Contact form with real-time states
+Fully responsive design
+
+Tech Stack:
+React • Vite • JavaScript • CSS
+
+🎯 What I Focus On
+Scalable system design
+Clean and maintainable code
+Secure backend architecture
+Performance optimization
+Real-world problem solving
+📈 Currently
+
+🎓 Master’s in Computer Science (Web Development)
+Westcliff University (2025–2026)
+
+🤝 Let’s Connect
+
+I’m open to Full-Stack / Backend / Software Engineer roles and exciting collaboration opportunities.
+
+📧 sravanimedagam0709@gmail.com
+
+💡 “I don’t just build apps — I build systems that scale and solve real problems.”
