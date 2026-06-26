@@ -125,6 +125,4 @@ Westcliff University, California
 
 🌐 **Portfolio:** [Portfolio Platform](https://sravani-portfolio-three.vercel.app/)
 
-🎟️ **EventLens:** [EventLens Platform](https://eventlens-86zi.onrender.com/)
-
 📧 **Email:** [sravanimedagam0709@gmail.com](mailto:sravanimedagam0709@gmail.com)
