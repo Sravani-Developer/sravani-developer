@@ -1,78 +1,109 @@
-# 🚀 Sravani Medagam  
-**Full-Stack Software Engineer**
+# Hi, I'm Sravani Medagam 👋
 
-✨ Building scalable web applications | Passionate about clean architecture  
+### Full Stack Engineer | React.js • Node.js • MongoDB • AWS
 
-📍 United States  
-📧 sravanimedagam0709@gmail.com  
+Full Stack Engineer with 4.5+ years of experience designing, developing, and deploying scalable web applications, REST APIs, and cloud-based solutions.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/sravanireddy-medagam-364190354/) | [Portfolio](https://sravani-portfolio-three.vercel.app/)
+Experienced in building customer-facing platforms serving 6,000+ users, developing secure backend systems, integrating payment solutions, modernizing legacy applications, and delivering end-to-end software solutions across multiple business domains.
 
 ---
 
-## 👩‍💻 About Me
-I’m a Full-Stack Software Engineer focused on building **scalable, secure, and user-friendly web applications**.
+## 💼 Professional Highlights
 
-I enjoy working across the stack—from crafting responsive frontends to designing efficient backend systems.  
-My work emphasizes performance, clean architecture, and real-world usability.
-
----
-
-## ⚡ Tech Stack
-
-**Frontend**  
-React • Angular • JavaScript • HTML • CSS • Tailwind • Bootstrap  
-
-**Backend**  
-Node.js • Express • REST APIs • MVC  
-
-**Database**  
-MongoDB • MySQL  
-
-**Security**  
-JWT • RBAC • Sessions • bcrypt  
-
-**Tools**  
-Git • GitHub • Postman • Docker • CI/CD  
+* 4.5+ Years of Professional Software Engineering Experience
+* Built and Maintained 5 Production Web Applications
+* Supported Platforms Serving 6,000+ Users
+* Developed and Maintained 40+ REST APIs
+* Led AngularJS to React Modernization Initiatives
+* Integrated Payment Gateway Solutions
+* Deployed Applications on AWS and Cloud Platforms
+* Mentored 6 Junior Developers
+* Collaborated Directly with Clients and Business Stakeholders
 
 ---
 
-## 🚀 Projects
+## 🚀 Core Expertise
 
-### 🔹 EventLens  
-Full-stack event discovery & RSVP platform  
-- Role-based authentication  
-- Event creation and RSVP workflows  
-- Search and filtering  
-- PWA support  
+### Frontend Development
 
-### 🔹 Portfolio Website  
-Personal portfolio showcasing projects and skills  
-- Dynamic project rendering  
-- SEO optimized  
-- Fully responsive design  
+React.js • Angular • AngularJS • JavaScript (ES6+) • HTML5 • CSS3 • Bootstrap • SASS • Responsive Design
 
----
+### Backend Development
 
-## 🎯 What I Focus On
-- Scalable system design  
-- Clean and maintainable code  
-- Secure backend architecture  
-- Performance optimization  
+Node.js • Express.js • REST APIs • Authentication & Authorization • JWT • Session Management
 
----
+### Databases
 
-## 📈 Currently
-🎓 Master’s in Computer Science (Web Development)  
-Westcliff University (2025–2026)
+MongoDB • MongoDB Atlas • Mongoose • MySQL
+
+### Cloud & DevOps
+
+AWS • Git • GitHub • CI/CD • Vercel • Render
+
+### Tools & Technologies
+
+Postman • VS Code • npm • Nodemon
 
 ---
 
-## 🤝 Let’s Connect
-🔗 [LinkedIn](https://www.linkedin.com/in/sravanireddy-medagam-364190354/)  
-🌐 [Portfolio](https://sravani-portfolio-three.vercel.app/)  
-📧 sravanimedagam0709@gmail.com  
+## 🌟 Featured Projects
+
+### EventLens – Event Discovery & Management Platform
+
+Production-ready full-stack event management platform enabling users to discover, create, manage, and RSVP to events through a centralized web application.
+
+**Key Features**
+
+* Role-Based Access Control (RBAC)
+* Session-Based Authentication
+* Event Creation & Management
+* RSVP Workflows & Capacity Validation
+* Advanced Search & Filtering
+* Organizer Dashboards
+* Progressive Web App (PWA) Support
+* Security Middleware & Validation
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Mongoose, Bootstrap, SASS, REST APIs
+
+🔗 Live Demo: https://eventlens-86zi.onrender.com/
 
 ---
 
-💡 *Building systems that solve real-world problems.*
+### Developer Portfolio Platform
+
+Full-stack portfolio management platform featuring a custom admin dashboard, visitor analytics, contact management, GitHub API integration, JWT authentication, and cloud-native deployment architecture.
+
+**Key Features**
+
+* Custom Admin Dashboard
+* JWT Authentication & Protected Routes
+* Dynamic Project Management
+* Contact Management System
+* Visitor Analytics & Event Tracking
+* GitHub API Integration
+* Dark/Light Theme Support
+* SEO Optimization
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB Atlas, JWT, GitHub API, Vercel, Render
+
+🔗 Live Demo: https://sravani-portfolio-three.vercel.app/
+
+---
+
+## 🎯 Current Focus
+
+* Full Stack Application Development
+* Cloud Technologies & AWS
+* Software Architecture & System Design
+* Scalable Web Applications
+* Performance Optimization
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/sravanireddy-medagam-364190354/
+
+🌐 Portfolio: https://sravani-portfolio-three.vercel.app/
+
+📧 Email: [sravanimedagam0709@gmail.com](mailto:sravanimedagam0709@gmail.com)
