@@ -34,7 +34,7 @@ Node.js • Express.js • REST APIs • Authentication & Authorization • JWT 
 
 ### Databases
 
-MongoDB • MongoDB Atlas • Mongoose • MySQL
+MongoDB • Mongoose • MySQL
 
 ### Cloud & DevOps
 
@@ -65,7 +65,7 @@ Production-ready full-stack event management platform enabling users to discover
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Mongoose, Bootstrap, SASS, REST APIs
 
-🔗 Live Demo: https://eventlens-86zi.onrender.com/
+🔗 **Live Demo:** [EventLens Platform](https://eventlens-86zi.onrender.com/)
 
 ---
 
@@ -84,26 +84,28 @@ Full-stack portfolio management platform featuring a custom admin dashboard, vis
 * Dark/Light Theme Support
 * SEO Optimization
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB Atlas, JWT, GitHub API, Vercel, Render
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT Authentication, REST APIs, GitHub API, Vercel, Render
 
-🔗 Live Demo: https://sravani-portfolio-three.vercel.app/
+🔗 **Live Demo:** [Portfolio Platform](https://sravani-portfolio-three.vercel.app/)
 
 ---
 
 ## 🎯 Current Focus
 
-* Full Stack Application Development
-* Cloud Technologies & AWS
-* Software Architecture & System Design
-* Scalable Web Applications
-* Performance Optimization
+* Building scalable full-stack applications
+* Cloud-native development with AWS
+* System design and software architecture
+* Backend API development and security
+* Performance optimization and user experience
 
 ---
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/sravanireddy-medagam-364190354/
+💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sravanireddy-medagam-364190354/)
 
-🌐 Portfolio: https://sravani-portfolio-three.vercel.app/
+🌐 Portfolio: [Portfolio Platform](https://sravani-portfolio-three.vercel.app/)
+
+🎟️ EventLens: [EventLens Platform](https://eventlens-86zi.onrender.com/)
 
 📧 Email: [sravanimedagam0709@gmail.com](mailto:sravanimedagam0709@gmail.com)
